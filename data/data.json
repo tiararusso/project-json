@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "name": "Claudio Alonso",
+        "desc": "Profesor de programacion web",
+        "img":"assets/img_01.png"
+    },
+    {
+        "id": 2,
+        "name": "Paula Ramirez",
+        "desc": "Fanatica de Racing",
+        "img":"assets/img_02.png"
+
+    },
+    {
+        "id": 3,
+        "name": "Lionel Messi",
+        "desc": "Jugador de futbol",
+        "img":"assets/img_03.png"
+    },
+    {
+        "id": 4,
+        "name": "Gabriel Garcia Marquez",
+        "desc": "Escritor",
+        "img":"assets/img_04.png"
+    },
+    {
+        "id": 5,
+        "name": "Juan Pablo Fernandez",
+        "desc": "Entusiaste de la ciencia de datos",
+        "img":"assets/img_05.png"
+    },
+    {
+        "id": 6,
+        "name": "Tiara Russo",
+        "desc": "Estudiante de Programacion Web",
+        "img":"assets/img_06.png"
+    }
+]
